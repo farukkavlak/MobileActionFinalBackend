@@ -43,3 +43,30 @@ The main purpose of the application is to read the air pollution information(CO,
 - Date Util Test : Method Coverage %100 - Line Coverage %100✔️
 
 ## Swagger Screenshots
+#### Get Weather From Api and Log
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherFromApi.png"></img>
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherFromApiLog.png"></img>
+
+#### Get Weather From Db and then Api and Log
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherFromApiDb.png"></img>
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherFromApiDbLog.png"></img>
+
+#### Get Weather From Api-Db-Api and Log
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherFromApiDbApi.png"></img>
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherFromApiDbApiLog.png"></img>
+
+#### Get Weather Without Date (Default last week)
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherWithoutDate.png"></img>
+
+#### Error - Restrict Date - Earlier than 27 November 2020 and Log
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherError2.png"></img>
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherError2Log.png"></img>
+
+#### Error - Last Date cannot be earlier than First Date
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherError.png"></img>
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherErrorLog.png"></img>
+
+
+
+
+
