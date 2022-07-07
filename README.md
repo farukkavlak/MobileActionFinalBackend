@@ -52,12 +52,12 @@ The main purpose of the application is to read the air pollution information(CO,
 
 ## Swagger Screenshots
 #### Controller
-<img src="https://github.com/farukkavlak/MobileActionFinalFrontend/blob/main/SwaggerUI/Controller.png"></img>
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/Controller.png"></img>
 #### Schemas from Heroku
-<img src="https://github.com/farukkavlak/MobileActionFinalFrontend/blob/main/SwaggerUI/Schema1.png"></img>
-<img src="https://github.com/farukkavlak/MobileActionFinalFrontend/blob/main/SwaggerUI/Schema2.png"></img>
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/Schema1.png"></img>
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/Schema2.png"></img>
 #### PostgreSQL Database in Heroku
-<img src="https://github.com/farukkavlak/MobileActionFinalFrontend/blob/main/SwaggerUI/HerokuPostgreSQLDatabase.png"></img>
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/HerokuPostgreSQLDatabase.png"></img>
 
 #### Get Weather From Api and Log
 <img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/getWeatherFromApi.png"></img>
