@@ -1,5 +1,6 @@
 # 
-<h1 align="center">Mobile Action Final Project Backend Part-Ömer Faruk Kavlak</h1>
+<h1 align="center">Mobile Action Final Project Backend Part</h1>
+<h1 align="center">Ömer Faruk Kavlak</h1><br>
 
  <p align="center">
   &#8505; <a href="#demo">Demo</a> 
