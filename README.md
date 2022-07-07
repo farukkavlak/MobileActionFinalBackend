@@ -15,6 +15,7 @@
 https://github.com/farukkavlak/MobileActionFinalFrontend
 
 ## Demo
+https://user-images.githubusercontent.com/79375232/177862614-1692973a-f8d3-4a58-893a-40978c7559f7.mp4
 
 ## Project Details
 
