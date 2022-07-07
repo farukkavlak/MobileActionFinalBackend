@@ -33,7 +33,8 @@ The main purpose of the application is to read the air pollution information(CO,
 - Historical Air Pollution (https://openweathermap.org/api/air-pollution#history) ve Geocoding (https://openweathermap.org/api/geocoding-api) endpointleri kulllanılacaktır.✔️
 - With the help of the City Name information and the Geocoding API, the coordinate(lat,lon) information of the relevant city will be obtained.✔️
 - The inquired air pollution information will include only Carbon monoxide (CO), Ozone (O3), Sulfur dioxide (SO2) information among the pollutant information returned by the relevant endpoint.✔️
-- The pollutant concentration information read will be classified as “Good, Satisfactory, Moderate, Poor, Severe and Hazardous” using this table.✔️
+- The pollutant concentration information read will be classified as “Good, Satisfactory, Moderate, Poor, Severe and Hazardous” using this table.✔️<br>
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/Aqi.png"></img>
 - In the service, it will be possible to query City Name and Date Range information and historical air pollution information, and previously existing records in the database will be deleted.✔️
 - The City Name will be mandatory when inquiring, and if the Date Range is not entered, it will be taken as the last 1 week by default.✔️
 - Since historical data access is limited by the API from 27 November 2020 to the present, an error message will be returned regarding the incorrect date range for entries outside of these dates.✔️
@@ -44,6 +45,7 @@ The main purpose of the application is to read the air pollution information(CO,
 - Controller Test : Method Coverage %100 - Line Coverage %100✔️
 - Service Test : Method Coverage %100 - Line Coverage %75✔️
 - Date Util Test : Method Coverage %100 - Line Coverage %100✔️
+<img src="https://github.com/farukkavlak/MobileActionFinalBackend/blob/main/SwaggerUI/TestResults.png"></img>
 
 ## Swagger Screenshots
 #### Get Weather From Api and Log
