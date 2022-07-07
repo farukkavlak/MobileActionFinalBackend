@@ -32,14 +32,14 @@ public class ControllerTest{
     void getWeatherWithDates() throws Exception {
         String callPath ="/getWeather/";
         mockMvc.perform(
-                get(callPath).param("city","Tokyo").param("startDate","06-06-2021").param("endDate","10-06-2021")).andExpect(status().isOk()).andReturn();
+                get(callPath).param("city","Tokyo").param("startDate","").param("endDate","")).andExpect(status().isOk()).andReturn();
     }
 
     @Test
     void getWeatherWithoutDates() throws Exception {
         String callPath ="/getWeather/";
         mockMvc.perform(
-                get(callPath).param("city","Ankara").param("startDate","").param("endDate","")).andExpect(status().isOk()).andReturn();
+                get(callPath).param("city","Barcelona").param("startDate","").param("endDate","")).andExpect(status().isOk()).andReturn();
     }
     @Test
     void deleteWeather() throws Exception{
