@@ -33,7 +33,7 @@ The main purpose of the application is to read the air pollution information(CO,
 
 ## Project Requirements
 
-- Historical Air Pollution (https://openweathermap.org/api/air-pollution#history) ve Geocoding (https://openweathermap.org/api/geocoding-api) endpointleri kulllanılacaktır.✔️
+- Historical Air Pollution (https://openweathermap.org/api/air-pollution#history) and Geocoding (https://openweathermap.org/api/geocoding-api) endpoints will be used.✔️
 - With the help of the City Name information and the Geocoding API, the coordinate(lat,lon) information of the relevant city will be obtained.✔️
 - The inquired air pollution information will include only Carbon monoxide (CO), Ozone (O3), Sulfur dioxide (SO2) information among the pollutant information returned by the relevant endpoint.✔️
 - The pollutant concentration information read will be classified as “Good, Satisfactory, Moderate, Poor, Severe and Hazardous” using this table.✔️<br>
